@@ -18,3 +18,6 @@ Practice using GitHub and improve understanding of Python fundamentals.
 
 # Practical_exercise 4
 I've worked on python programs that mostly uses functions
+
+# Pratcical_exercise 6
+Added practical exercises6  related to mathematical questions
